@@ -10,3 +10,6 @@ def is_prime(n):
 for i in range(2, 1001):
     if is_prime(i):
         print(i)
+
+
+print("THIS PROGRAM DISPLAYS ALL PRIME NUMBERS UP TO 1000")
