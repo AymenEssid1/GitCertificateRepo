@@ -14,3 +14,4 @@ for i in range(2, 1001):
 
 print("THIS PROGRAM DISPLAYS ALL PRIME NUMBERS UP TO 1000")
 print("done")
+lol
