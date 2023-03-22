@@ -9,7 +9,7 @@ def is_prime(n):
 # iterate through all numbers up to 1000 and print the prime ones
 for i in range(2, 1001):
     if is_prime(i):
-        print(i)
+        print(i+1)
 
 
 print("THIS PROGRAM DISPLAYS ALL PRIME NUMBERS UP TO 1000")
